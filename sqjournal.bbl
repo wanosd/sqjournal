@@ -45,6 +45,71 @@
   \field{year}{2004}
 \endentry
 
+\entry{week3}{thesis}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Mossialos}{M.}%
+     {Elias}{E.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{ME1}
+  \strng{fullhash}{ME1}
+  \field{labelyear}{2001}
+  \field{sortinit}{M}
+  \field{title}{The influence of EU law on the social character of health care
+  systems in the European Union}
+  \list{institution}{2}{%
+    {Institute of Labour Law}%
+    {Social Security Law, Karl-Franzens-University}%
+  }
+  \field{type}{phdthesis}
+  \field{year}{2001}
+\endentry
+
+\entry{week2}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {O'Neill}{O.}%
+     {Sonja~A}{S.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Nugent}{N.}%
+     {Chris~D}{C.~D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Donnelly}{D.}%
+     {Mark~P}{M.~P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {McCullagh}{M.}%
+     {Paul}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {McLaughlin}{M.}%
+     {James}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IOS Press}%
+  }
+  \strng{namehash}{OSA+1}
+  \strng{fullhash}{OSANCDDMPMPMJ1}
+  \field{labelyear}{2012}
+  \field{sortinit}{O}
+  \field{number}{3}
+  \field{pages}{151\bibrangedash 167}
+  \field{title}{Evaluation of connected health technology}
+  \field{volume}{20}
+  \field{journaltitle}{Technology and Health Care}
+  \field{year}{2012}
+\endentry
+
 \lossort
 \endlossort
 
