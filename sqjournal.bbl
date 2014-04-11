@@ -16,6 +16,35 @@
   {}
 \endgroup
 
+\entry{week11}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Brandon}{B.}%
+     {David~P}{D.~P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hollingshead}{H.}%
+     {Andrea~B}{A.~B.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {INFORMS}%
+  }
+  \strng{namehash}{BDPHAB1}
+  \strng{fullhash}{BDPHAB1}
+  \field{labelyear}{2004}
+  \field{sortinit}{B}
+  \field{number}{6}
+  \field{pages}{633\bibrangedash 644}
+  \field{title}{Transactive memory systems in organizations: Matching tasks,
+  expertise, and people}
+  \field{volume}{15}
+  \field{journaltitle}{organization science}
+  \field{year}{2004}
+\endentry
+
 \entry{week1}{article}{}
   \name{author}{2}{}{%
     {{}%
