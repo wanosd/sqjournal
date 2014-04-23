@@ -139,6 +139,89 @@
   \field{year}{2012}
 \endentry
 
+\entry{quinn}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Quinn}{Q.}%
+     {Robert~E}{R.~E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Kimberly}{K.}%
+     {John~R}{J.~R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Dow Jones-Irwin Homewood, IL}%
+  }
+  \strng{namehash}{QREKJR1}
+  \strng{fullhash}{QREKJR1}
+  \field{labelyear}{1984}
+  \field{sortinit}{Q}
+  \field{number}{9}
+  \field{pages}{5\bibrangedash 3}
+  \field{title}{Paradox, planning, and perseverance: Guidelines for managerial
+  practice}
+  \field{volume}{2}
+  \field{journaltitle}{Managing organizational transitions}
+  \field{year}{1984}
+\endentry
+
+\entry{tqm}{article}{}
+  \name{author}{7}{}{%
+    {{}%
+     {Shortell}{S.}%
+     {Stephen~M}{S.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {O'Brien}{O.}%
+     {James~L}{J.~L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Carman}{C.}%
+     {James~M}{J.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Foster}{F.}%
+     {Richard~W}{R.~W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hughes}{H.}%
+     {EF}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Boerstler}{B.}%
+     {Heidi}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {O'Connor}{O.}%
+     {Edward~J}{E.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Health Research \& Educational Trust}%
+  }
+  \strng{namehash}{SSM+1}
+  \strng{fullhash}{SSMOJLCJMFRWHEBHOEJ1}
+  \field{labelyear}{1995}
+  \field{sortinit}{S}
+  \field{number}{2}
+  \field{pages}{377}
+  \field{title}{Assessing the impact of continuous quality improvement/total
+  quality management: concept versus implementation.}
+  \field{volume}{30}
+  \field{journaltitle}{Health services research}
+  \field{year}{1995}
+\endentry
+
 \lossort
 \endlossort
 
