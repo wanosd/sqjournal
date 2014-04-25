@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex version 2.3 $
+% $ biblatex version 2.2 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -166,6 +166,50 @@
   \field{volume}{2}
   \field{journaltitle}{Managing organizational transitions}
   \field{year}{1984}
+\endentry
+
+\entry{defect}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Runeson}{R.}%
+     {Per}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Andersson}{A.}%
+     {Carina}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Thelin}{T.}%
+     {Thomas}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Andrews}{A.}%
+     {Anneliese}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Berling}{B.}%
+     {Tomas}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {IEEE}%
+  }
+  \strng{namehash}{RP+1}
+  \strng{fullhash}{RPACTTAABT1}
+  \field{labelyear}{2006}
+  \field{sortinit}{R}
+  \field{number}{3}
+  \field{pages}{82\bibrangedash 90}
+  \field{title}{What do we know about defect detection methods?[software
+  testing]}
+  \field{volume}{23}
+  \field{journaltitle}{Software, IEEE}
+  \field{year}{2006}
 \endentry
 
 \entry{tqm}{article}{}
