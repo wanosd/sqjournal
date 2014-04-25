@@ -40,9 +40,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {6.1}Learnings}{17}{section.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.2}Paper}{17}{section.6.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.3}Meeting}{17}{section.6.3}
+\contentsline {section}{\numberline {6.2}Meeting}{17}{section.6.2}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {7}Week 6}{20}{chapter.7}
 \defcounter {refsection}{0}\relax 
